@@ -35,7 +35,7 @@ Below are sample visualizations resulting from `eda.py`
 ![Precipitation vs sunshine](results/percipitation_vs_sunshine_by_city.png)
 
 ### City Example: Portland, OR
-![Precipitation vs temperature for Portland](results/percipitation_vs_temperature_for_PORTLAND_OR.png)
+![Precipitation vs temperature for Portland](results/percipitation_vs_temperature_for_PORTLAND,OR.png)
 
 ### Plant-Specific Example: Aloe vera
 ![Health score impact](results/health_score_impact_for_Aloe_vera.png)
