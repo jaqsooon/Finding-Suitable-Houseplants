@@ -39,5 +39,5 @@ Below are sample visualizations resulting from `eda.py`
 
 ### Plant-Specific Example: Aloe vera
 ![Health score impact](results/health_score_impact_for_Aloe_vera.png)
-![Health vs temperature](results/health_vs_temperature_graph_for_Aloe_vera.png)
+![Health vs temperature](results/health_vs_temperature_graph for Aloe vera.png)
 
