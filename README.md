@@ -23,3 +23,21 @@ This project analyzes U.S. city climate datasets and an indoor houseplant datase
 * To use the program, run the main script in `ml.py`
 * After running, enter your city of choice formatted as `CITY,ST`. You also have the option of running the EDA, where you will have to enter a city of choice to analyze and plant to analyze
 
+## Example Results
+
+Below are sample visualizations resulting from `eda.py`
+
+### Plant Dataset Count
+![Plant count](results/plant_count.png)
+
+### Climate Trends Across Cities
+![Temperature vs sunshine](results/temperature_vs_sunshine_by_city.png)
+![Precipitation vs sunshine](results/percipitation_vs_sunshine_by_city.png)
+
+### City Example: Portland, OR
+![Precipitation vs temperature for Portland](results/percipitation_vs_temperature_for_PORTLAND_OR.png)
+
+### Plant-Specific Example: Aloe vera
+![Health score impact](results/health_score_impact_for_Aloe_vera.png)
+![Health vs temperature](results/health_vs_temperature_graph_for_Aloe_vera.png)
+
